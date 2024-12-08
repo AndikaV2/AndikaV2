@@ -1,15 +1,15 @@
-# Hi, I'm [Nama Anda] 👋
+# Hi, I'm [Wisnu] 👋
 
 ## About Me
 
-I'm a passionate [Profesi atau Minat Anda] based in [Lokasi]. I specialize in [Keahlian Anda]. 
+I'm a passionate Developer based in Jakarta. I specialize in Lua. 
 
-I love exploring new technologies and solving complex problems with creative solutions. Currently, I'm learning [Topik atau Teknologi yang sedang dipelajari].
+I love exploring new technologies and solving complex problems with creative solutions. Currently, I'm learning JavaScript.
 
-- 📫 How to reach me: [Email Anda]
-- 🔗 Check out my [LinkedIn](link linkedin Anda) or [GitHub](link GitHub Anda)
-- 🌱 Currently learning [Hal yang sedang dipelajari]
-- ⚡ Fun fact: [Fakta Menarik tentang Anda]
+- 📫 How to reach me: xdmets@gmail.com
+- 🔗 Check out my Instagram (DikaSavor) 
+- 🌱 Currently learning App Developer
+- ⚡ Fun fact: I Will Become Savior
 
 ---
 
